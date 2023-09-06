@@ -1,1 +1,0 @@
-python3 ./MICCAI_Flare2023/Flare23IMTAtlantique-main/flare23-train.py
